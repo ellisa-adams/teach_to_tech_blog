@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Ellisa Adams</title>
+    <link>http://localhost:64405/en/blog/</link>
+    <description>Recent content in Blog on Ellisa Adams</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Ellisa Adams - Teacher to Tech</copyright>
+    <atom:link href="http://localhost:64405/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap elements</title>
+      <link>http://localhost:64405/en/blog/bootstrap/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64405/en/blog/bootstrap/</guid>
+      <description>Hinode provides several shortcodes that wrap common Bootstrap components. Refer to the&#xA;Abbr &amp;nbsp; As an example, the following shortcode displays the full text of an abbreviation on hover.</description>
+    </item>
+  </channel>
+</rss>
