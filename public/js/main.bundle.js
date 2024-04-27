@@ -6562,7 +6562,7 @@ function initIndex() {
         tag: "en",
         href: "/blog/start/",
         title: "The start of my journey",
-        description: "A brief description of my start",
+        description: "A not brief description of my start",
         
         
         content: "Why \u0026nbsp; My husband is awesome"
