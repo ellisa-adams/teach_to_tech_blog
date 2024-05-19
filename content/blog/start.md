@@ -23,7 +23,9 @@ thumbnail:
 
 ## Why
 
-My husband is awesome and I love him!
+My husband is awesome and I really love him!
+
+I will add my blog post here!
 
 ```
 code
