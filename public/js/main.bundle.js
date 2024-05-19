@@ -6508,6 +6508,19 @@ function initIndex() {
       {
         id: 1,
         tag: "en",
+        href: "/en/about/",
+        title: "About",
+        description: "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        
+        
+        content: "Additional features include:\nSwitching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions"
+      })
+      .add(
+      
+      
+      {
+        id: 2,
+        tag: "en",
         href: "/blog/",
         title: "Blog",
         description: "",
@@ -6519,7 +6532,7 @@ function initIndex() {
       
       
       {
-        id: 2,
+        id: 3,
         tag: "en",
         href: "/tags/",
         title: "Tags",
@@ -6532,7 +6545,20 @@ function initIndex() {
       
       
       {
-        id: 3,
+        id: 4,
+        tag: "en",
+        href: "/en/",
+        title: "Teacher to Tech",
+        description: "This is my story, this is my journey, I hope you enjoy!",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 5,
         tag: "en",
         href: "/",
         title: "Teacher to Tech",
@@ -6545,7 +6571,7 @@ function initIndex() {
       
       
       {
-        id: 4,
+        id: 6,
         tag: "en",
         href: "/tags/tech/",
         title: "Tech",
@@ -6558,11 +6584,24 @@ function initIndex() {
       
       
       {
-        id: 5,
+        id: 7,
         tag: "en",
         href: "/blog/start/",
         title: "The start of my journey",
         description: "A not brief description of my start",
+        
+        
+        content: "Big \u0026nbsp; a little smaller \u0026nbsp; a bullet another bullet a number another number Why \u0026nbsp; My husband is awesome\ncode"
+      })
+      .add(
+      
+      
+      {
+        id: 8,
+        tag: "en",
+        href: "/blog/new/",
+        title: "The start of my journey part 2",
+        description: "A brief description of my start",
         
         
         content: "Why \u0026nbsp; My husband is awesome"

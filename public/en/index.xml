@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ens on Ellisa Adams</title>
-    <link>http://localhost:64405/en/</link>
-    <description>Recent content in Ens on Ellisa Adams</description>
+    <title>Teacher to Tech on Ellisa Adams</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Teacher to Tech on Ellisa Adams</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
-    <atom:link href="http://localhost:64405/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Additional features include:&#xA;Switching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions </description>
+    </item>
   </channel>
 </rss>

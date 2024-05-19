@@ -13,6 +13,13 @@
       <link>http://localhost:1313/blog/start/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/start/</guid>
+      <description>Big &amp;nbsp; a little smaller &amp;nbsp; a bullet another bullet a number another number Why &amp;nbsp; My husband is awesome</description>
+    </item>
+    <item>
+      <title>The start of my journey part 2</title>
+      <link>http://localhost:1313/blog/new/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/new/</guid>
       <description>Why &amp;nbsp; My husband is awesome</description>
     </item>
   </channel>

@@ -9,6 +9,22 @@ thumbnail:
   author: Ellisa Adams
 ---
 
+# Big
+
+## a little smaller
+
+* a bullet
+* another bullet
+
+
+
+1. a number
+1. another number
+
 ## Why
 
-My husband is awesome
+My husband is awesome and I love him!
+
+```
+code
+```
