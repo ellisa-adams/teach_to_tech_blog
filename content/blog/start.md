@@ -2,7 +2,7 @@
 author: Ellisa Adams
 title: The start of my journey
 date: 2023-08-12
-description: A not brief description of my start
+description: This is the post where I mess around and tear things up :)
 tags: ["tech"]
 thumbnail:
   url: img/boots.jpg
