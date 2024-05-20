@@ -1,6 +1,6 @@
 [[main]]
   name = "About"
-  pageRef = "/about/"
+  pageRef = "/about_me/"
   weight = 10
 
 [[main]]

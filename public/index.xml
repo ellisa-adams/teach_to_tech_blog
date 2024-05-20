@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teacher to Tech on Ellisa Adams</title>
+    <title>Ellisa Adams</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Teacher to Tech on Ellisa Adams</description>
+    <description>Recent content on Ellisa Adams</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
@@ -16,7 +16,7 @@
       <description>&amp;ldquo;There&amp;rsquo;s something delicious about writing those first few words of a story. You can never quite tell where they will take you.</description>
     </item>
     <item>
-      <title>The start of my journey</title>
+      <title>The start of my journey!</title>
       <link>http://localhost:1313/blog/start/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/start/</guid>
@@ -24,10 +24,10 @@
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>What would you like to know</description>
+      <link>http://localhost:1313/about_me/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about_me/</guid>
+      <description>test</description>
     </item>
     <item>
       <title>About</title>

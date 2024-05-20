@@ -7,21 +7,21 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
-    <lastBuildDate>Fri, 26 Apr 2024 21:48:25 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 19:54:39 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The start of my journey</title>
+      <title>You have to start somewhere...</title>
+      <link>http://localhost:1313/blog/first_words/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/first_words/</guid>
+      <description>&amp;ldquo;There&amp;rsquo;s something delicious about writing those first few words of a story. You can never quite tell where they will take you.</description>
+    </item>
+    <item>
+      <title>The start of my journey!</title>
       <link>http://localhost:1313/blog/start/</link>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/start/</guid>
-      <description>Big &amp;nbsp; a little smaller &amp;nbsp; a bullet another bullet a number another number Why &amp;nbsp; My husband is awesome</description>
-    </item>
-    <item>
-      <title>The start of my journey part 2</title>
-      <link>http://localhost:1313/blog/new/</link>
-      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/new/</guid>
-      <description>Why &amp;nbsp; My husband is awesome</description>
+      <description>Big &amp;nbsp; a little smaller &amp;nbsp; a bullet another bullet a number another number Why &amp;nbsp; My husband is awesome and I really love him!</description>
     </item>
   </channel>
 </rss>

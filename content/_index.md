@@ -1,6 +1,6 @@
 ---
-title: Teacher to Tech
-description: This is my story, this is my journey, I hope you enjoy!
+title: Ellisa Adams
+description: Documenting my journey from the classroom into the tech industry.
 thumbnail:
     url: /img/flowers.jpg
     author: Ellisa Adams
@@ -9,6 +9,6 @@ thumbnail:
     originName: Unsplash
 actions:
   about:
-    url: "about"
+    url: "about_me"
     title: "About"
 ---
