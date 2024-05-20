@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sourceRoot": "C:/Users/ellis/OneDrive/Desktop/teach_to_tech_blog",
 	"sources": [
-		"scss/bundle-1716165388351920900.scss",
+		"scss/bundle-1716165893382015100.scss",
 		"hugo:vars",
 		"assets/scss/common/_variables.scss",
 		"assets/scss/theme/_variables.scss",

@@ -6500,7 +6500,7 @@ function initIndex() {
         description: "This is my background and why I am doing this.",
         
         
-        content: "test"
+        content: "I was a classroom teacher and am working on transitioning into the tech industry. I\u0026rsquo;m documenting my experience for others who are making the same transition."
       })
       .add(
       
