@@ -7,3 +7,5 @@ showComments: false
 ---
 
 I was a classroom teacher and am working on transitioning into the tech industry. I'm documenting my experience for others who are making the same transition. 
+
+
