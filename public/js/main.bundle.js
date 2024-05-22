@@ -6573,19 +6573,6 @@ function initIndex() {
       {
         id: 6,
         tag: "en",
-        href: "/blog/start/",
-        title: "The start of my journey",
-        description: "This is the post where I mess around and tear things up :)",
-        
-        
-        content: "Big \u0026nbsp; a little smaller \u0026nbsp; a bullet another bullet a number another number Why \u0026nbsp; My husband is awesome and I really love him!\nI will add my blog post here!\ncode"
-      })
-      .add(
-      
-      
-      {
-        id: 7,
-        tag: "en",
         href: "/blog/first_words/",
         title: "You have to start somewhere...",
         description: "Where to start when you don't know where to start",
