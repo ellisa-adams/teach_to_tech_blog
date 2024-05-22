@@ -6500,7 +6500,7 @@ function initIndex() {
         description: "This is my background and why I am doing this.",
         
         
-        content: "I was a classroom teacher and am working on transitioning into the tech industry. I\u0026rsquo;m documenting my experience for others who are making the same transition."
+        content: "I was a classroom teacher and am working on transitioning into the tech industry. I\u0026rsquo;m documenting my experience for others who are making the same transition. I\u0026rsquo;ve been trying to make this jump and I hope that if I can forge a path forward, others who want to make the same leap, will have somewhere to start."
       })
       .add(
       

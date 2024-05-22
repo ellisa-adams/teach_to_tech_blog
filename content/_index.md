@@ -2,7 +2,7 @@
 title: Ellisa Adams
 description: Documenting my journey from the classroom into the tech industry.
 thumbnail:
-    url: /img/flowers.jpg
+    url: img/blog_banner.png
     author: Ellisa Adams
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
