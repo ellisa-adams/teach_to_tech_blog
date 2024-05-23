@@ -1,6 +1,6 @@
 ---
 author: Ellisa Adams
-title: You have to start somewhere...
+title: Getting Started with LinkedIn
 date: 2024-04-15
 description: Where to start when you don't know where to start
 tags: ["tech","LinkedIn"]
