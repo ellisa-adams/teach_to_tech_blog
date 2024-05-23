@@ -5,7 +5,7 @@ date: 2024-04-15
 description: Where to start when you don't know where to start
 tags: ["tech","LinkedIn"]
 thumbnail:
-  url: img/monopoly-update.jpg
+  url: monopoly-update.jpg
   author: Shutterstock
 ---
 

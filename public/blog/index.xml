@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/blog/first_words/</guid>
       <description>&amp;ldquo;There&amp;rsquo;s something delicious about writing those first few words of a story. You can never quite tell where they will take you.</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/datacamp_start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/datacamp_start/</guid>
+      <description>author: Ellisa Adams title: Why DataCamp Works Well for Teachers date: 2024-04-20 description: It actually all comes down to lesson plans!</description>
+    </item>
   </channel>
 </rss>

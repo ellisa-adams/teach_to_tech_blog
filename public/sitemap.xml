@@ -3,19 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/first_words/</loc>
-    <lastmod>2024-05-19T19:54:39-04:00</lastmod>
+    <lastmod>2024-05-22T21:10:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/linkedin/</loc>
-    <lastmod>2024-05-19T19:54:39-04:00</lastmod>
+    <lastmod>2024-05-22T21:10:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-19T19:54:39-04:00</lastmod>
+    <lastmod>2024-05-22T21:10:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
-    <lastmod>2024-05-19T19:54:39-04:00</lastmod>
+    <lastmod>2024-05-22T21:10:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about_me/</loc>
     <lastmod>2024-05-21T21:37:34-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/datacamp_start/</loc>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-04-26T20:41:31-07:00</lastmod>

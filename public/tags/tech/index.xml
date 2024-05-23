@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
-    <lastBuildDate>Sun, 19 May 2024 19:54:39 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 21:10:24 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why DataCamp Works Well for Teachers</title>
+      <link>http://localhost:1313/blog/datacamp_start/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/datacamp_start/</guid>
+      <description>“I didn&amp;rsquo;t start with the courage and confidence. I started with the risk.” &amp;nbsp; Laura Davies (British golfer) &amp;nbsp; The tech world is a huge world and there is so much advice out there.</description>
+    </item>
     <item>
       <title>Getting Started with LinkedIn</title>
       <link>http://localhost:1313/blog/first_words/</link>
