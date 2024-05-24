@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Ellisa Adams</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:60167/blog/</link>
     <description>Recent content in Blog on Ellisa Adams</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60167/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started with LinkedIn</title>
-      <link>http://localhost:1313/blog/first_words/</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first_words/</guid>
-      <description>&amp;ldquo;There&amp;rsquo;s something delicious about writing those first few words of a story. You can never quite tell where they will take you.</description>
+      <title>Why DataCamp Works Well for Teachers</title>
+      <link>http://localhost:60167/blog/datacamp_start/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60167/blog/datacamp_start/</guid>
+      <description>“I didn&amp;rsquo;t start with the courage and confidence. I started with the risk.” &amp;nbsp; Laura Davies (British golfer) &amp;nbsp; The tech world is a huge world and there is so much advice out there.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/blog/datacamp_start/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/datacamp_start/</guid>
-      <description>author: Ellisa Adams title: Why DataCamp Works Well for Teachers date: 2024-04-20 description: It actually all comes down to lesson plans!</description>
+      <title>Getting Started with LinkedIn</title>
+      <link>http://localhost:60167/blog/first_words/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60167/blog/first_words/</guid>
+      <description>&amp;ldquo;There&amp;rsquo;s something delicious about writing those first few words of a story. You can never quite tell where they will take you.</description>
     </item>
   </channel>
 </rss>
