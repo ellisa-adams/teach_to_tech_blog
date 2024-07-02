@@ -41,7 +41,7 @@ If you’re having trouble creating a banner, ChatGPT can actually create one fo
 
 &nbsp;
 
-![](img/first_words/linkedin_banner_1.png)
+{{< image src="img/first_words/linkedin_banner_1.png" ratio="21x9" class="rounded" >}}
 
 &nbsp;
 

@@ -3,7 +3,7 @@ author: Ellisa Adams
 title: Why DataCamp Works Well for Teachers
 date: 2024-04-20
 description: It actually all comes down to lesson plans!
-tags: ["tech","LinkedIn"]
+tags: ["tech","Career Transition","DataCamp"]
 thumbnail:
   url: img/print_youcandoit.png
   author: Ellisa Adams
@@ -37,7 +37,7 @@ There are numerous resources and platforms that can be used to upskill or reskil
 
 DataCamp follows the typical lesson format that educators are used to. Each lesson starts with direct instruction, usually a video. In education we would call this direct instruction, and it happens in the form of a mini-lesson! Followed by some guided practice either via answer sorting or multiple choice questions. Then, you apply your skills via DataCamp’s own interface. It looks like this:
 
-![](img/datacamp_start/datacampexample.png)
+{{< image src="img/datacamp_start/datacampexample.png" ratio="21x9" class="rounded" >}}
 
 The prompts are on the left, and you do your work on the right hand side. You receive immediate feedback on your performance and then, if you pass, you move on to the next question. Each lesson is scaffolded into manageable chunks that can be completed in just 15 or so minutes. Then, you move on to the next lesson!
 

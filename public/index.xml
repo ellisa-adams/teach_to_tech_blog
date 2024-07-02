@@ -9,6 +9,27 @@
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Getting Started with Wireshark - Part 3</title>
+      <link>http://localhost:1313/blog/wireshark_3/</link>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wireshark_3/</guid>
+      <description>“Why, sometimes I’ve believed as many as six impossible things before breakfast.” &amp;nbsp; Lewis Carroll (Through the Looking Glass) &amp;nbsp; Let’s do a quick recap of the first two posts in the Getting Started with Wireshark series.</description>
+    </item>
+    <item>
+      <title>Getting Started with Wireshark - Part 2</title>
+      <link>http://localhost:1313/blog/wireshark_2/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wireshark_2/</guid>
+      <description>“Etiquette mean behaving yourself a little better than is absolutely essential” &amp;nbsp; Will Cuppy &amp;nbsp; THREE WAY HANDSHAKE - Establishing the connection &amp;nbsp; Your computer is constantly having conversations with other network devices, servers, and maybe even streaming platforms.</description>
+    </item>
+    <item>
+      <title>Getting Started with Wireshark - Part 1</title>
+      <link>http://localhost:1313/blog/wireshark_1/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/wireshark_1/</guid>
+      <description>“Wireshark isn’t nearly as scary as real sharks!” &amp;nbsp; Me, I said that &amp;nbsp; WHAT IS WIRESHARK &amp;nbsp; Wireshark is a program that captures the traffic of computers and servers.</description>
+    </item>
+    <item>
       <title>Why DataCamp Works Well for Teachers</title>
       <link>http://localhost:1313/blog/datacamp_start/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
