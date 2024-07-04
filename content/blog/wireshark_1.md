@@ -1,7 +1,7 @@
 ---
 author: Ellisa Adams
 title: Getting Started with Wireshark - Part 1
-date: 2024-05-12
+date: 2024-06-15
 description: An intro for the uninitiated
 tags: ["tech","Wireshark","pcap"]
 thumbnail:

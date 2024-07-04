@@ -1,7 +1,7 @@
 ---
 author: Ellisa Adams
 title: Getting Started with Wireshark - Part 3
-date: 2024-06-08
+date: 2024-07-02
 description: We're capturing packets, not sharks...
 tags: ["tech","Wireshark","Pcap"]
 thumbnail:

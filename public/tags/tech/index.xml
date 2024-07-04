@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Ellisa Adams - Teacher to Tech</copyright>
-    <lastBuildDate>Sat, 08 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 16:13:48 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Wireshark - Part 3</title>
@@ -28,7 +28,7 @@
       <link>http://localhost:1313/blog/wireshark_1/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/wireshark_1/</guid>
-      <description>“Wireshark isn’t nearly as scary as real sharks!” &amp;nbsp; Me, I said that &amp;nbsp; Wireshark is a program that captures the traffic of computers and servers.</description>
+      <description>“Wireshark isn’t nearly as scary as real sharks!” &amp;nbsp; Me, I said that &amp;nbsp; WHAT IS WIRESHARK &amp;nbsp; Wireshark is a program that captures the traffic of computers and servers.</description>
     </item>
     <item>
       <title>Why DataCamp Works Well for Teachers</title>

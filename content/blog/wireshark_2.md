@@ -1,7 +1,7 @@
 ---
 author: Ellisa Adams
 title: Getting Started with Wireshark - Part 2
-date: 2024-05-31
+date: 2024-06-30
 description: Let’s talk about polite conversations. 
 tags: ["tech","Wireshark", "Pcap"]
 thumbnail:
